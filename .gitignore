@@ -1,0 +1,12 @@
+# Exclude misc
+.spyproject
+__pycache__
+
+# Exclude folder
+archive
+docs/API_documentation_OpEnCellS_Sphinx
+docs/archive
+docs/Documentation_OpEnCellS
+docs/Documentation_other technical
+
+
